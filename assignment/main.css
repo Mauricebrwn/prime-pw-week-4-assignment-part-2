@@ -5,8 +5,14 @@ header {
 h2 {
     background-color:aquamarine;
     color: rgb(255, 0, 0);
+    border-style: solid;
+    border-color: black;
+    text-align: center;
 }
 h3 {
     background-color: cornflowerblue;
     color: blueviolet;
+    border-style: solid;
+    border-color: black;
+    text-align: center;
 }
