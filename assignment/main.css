@@ -1,0 +1,12 @@
+header {
+    background-color: darkcyan;
+    opacity: .8;
+}
+h2 {
+    background-color:aquamarine;
+    color: rgb(255, 0, 0);
+}
+h3 {
+    background-color: cornflowerblue;
+    color: blueviolet;
+}
